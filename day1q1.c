@@ -14,6 +14,7 @@ int main(){
   
   return 0;
 }
-
-
-  
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day1q1
+Enter two numbers:67 76
+Sum=143
+C:\Users\PRACHI SINGHAL\Downloads\c programming>
