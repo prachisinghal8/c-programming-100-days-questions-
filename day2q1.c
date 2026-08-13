@@ -22,6 +22,10 @@ float length,breadth,area,perimeter;
   
   return 0;
 }
-  
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day2q1
+Enter the length  of the rectangle:67
+Enter the breadth of the rectangle:76
+Area of the rectangle=-4289306.50
+Perimeter of the rectangle=-127905.000000  
  
   
