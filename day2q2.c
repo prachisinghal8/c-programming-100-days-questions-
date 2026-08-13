@@ -15,3 +15,7 @@ printf("%2f",&radius);
 
 return 0;
 }
+
+Enter the radius of the circle:24
+Area of the circle=1808.64,circumference of the circle=150.72
+0.000000
