@@ -15,3 +15,7 @@ int main()
   return 0;
   
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day3q1
+Enter temperature in celsius37
+Temperature in fahrenheit=98.60
