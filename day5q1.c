@@ -1,3 +1,5 @@
+//write a program to calculate simple and compound interest for given principle,rate and time.
+
 #include <stdio.h>
 #include <math.h>
 
@@ -12,3 +14,7 @@ scanf("%f%f%f",&p,&r,&t);
   printf("Simple interest=%.2f,compound interest=%.2f",si,ci);
   return 0;
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day5q1
+2000 5 2
+Simple interest=200.00,compound interest=205.00
