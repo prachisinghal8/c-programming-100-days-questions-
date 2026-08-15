@@ -1,3 +1,5 @@
+//write a program to convert seconds in the format hours:minutes:seconds.
+
 #include <stdio.h>
 int main()
 {
@@ -13,3 +15,7 @@ scanf("%d",&sec);
   printf("%.2d,%.2d,%.2d",hours,minutes,seconds);
   return 0;
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day5q2
+Enter time in seconds:40271
+11,11,11
