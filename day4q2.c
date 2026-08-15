@@ -1,3 +1,5 @@
+//write a program to display and calculate the sum of first n natural numbers.
+
 #include <stdio.h>
 int main()
 {
@@ -12,3 +14,8 @@ for(i=1;i<=n;i++)
 printf("\nSum=%d",sum);
 return 0;
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day4q2
+8
+12345678
+Sum=36
