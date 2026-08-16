@@ -1,3 +1,5 @@
+//Write a program to input a year and check whether it is a leap year or not using conditional statements.
+
 #include<stdio.h>
 int main()
 {
@@ -24,3 +26,7 @@ int main()
   }
 return 0;
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day7q1
+Enter a year:1947
+Not a leap year
