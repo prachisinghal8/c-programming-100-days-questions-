@@ -1,3 +1,5 @@
+//Write a program to input an integer and check whether it is even or odd using if–else.
+
 #include<stdio.h>
 int main()
 {
@@ -12,3 +14,7 @@ int main()
       printf("Odd");
 return 0;
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day6q1
+Enter an integer:89
+Odd
