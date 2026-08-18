@@ -1,3 +1,6 @@
+//Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
+
+
 #include <stdio.h>
 int main ()
 {
@@ -17,5 +20,9 @@ int main ()
 	
 	return 0;
 }
-	
+
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day8q1
+Enter a character:@
+special character
 	
