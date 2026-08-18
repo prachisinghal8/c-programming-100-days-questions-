@@ -1,3 +1,5 @@
+//Write a program to input three numbers and find the largest among them using if–else.
+
 #include <stdio.h>
 int main()
 {
@@ -16,3 +18,7 @@ printf("Largest number=%d",c);}
 
 return 0;
 }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day8q2
+Enter three numbers1 2 3
+Largest number=3
