@@ -1,3 +1,5 @@
+//write a program to classify a triangle as equilateral,isosceles or scalene triangle based on it's side lengths.
+
 #include <stdio.h>
 
 int main()
@@ -19,5 +21,9 @@ int main()
   return 0;
   
  }
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day10q1
+Enter three side lengths: 23 23 22
+Isosceles triangle
   
   
