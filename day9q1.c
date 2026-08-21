@@ -27,6 +27,9 @@ int main()
   
   return 0;
  }
+
+1 -3 2
+Roots are real and different: 32, 0
   
   
   
