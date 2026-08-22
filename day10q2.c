@@ -1,3 +1,5 @@
+//write a program to display the day of the week based on a number (1-7) using switch-case.
+
 #include <stdio.h>
 
 int main()
@@ -43,4 +45,8 @@ int main()
 		
 return 0;
 }
-	
+
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day10q2
+Enter a number (1-7):6
+saturday
