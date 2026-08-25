@@ -1,3 +1,6 @@
+Write a program to print the sum of the first n odd numbers.
+
+
 #include <stdio.h>
 int main()
 {
@@ -13,4 +16,9 @@ int main()
    
    return 0;
    }
+
+
+C:\Users\PRACHI SINGHAL\Downloads\c programming>day14q1
+Enter the value of n:67
+sum of first 67 odd numbers= 135
    
